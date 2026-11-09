@@ -1,3 +1,5 @@
+> This is the `b1ue13e/TrendRadar` fork of [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar). [English introduction](README.en.md) · 下方保留上游中文说明。
+
 <div align="center" id="trendradar">
 
 <a href="https://github.com/sansan0/TrendRadar" title="TrendRadar">
